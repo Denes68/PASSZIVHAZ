@@ -1,0 +1,53 @@
+﻿body {
+	font-size: 11pt;
+	margin: 0px;
+	padding: 0px;
+	background-image: url(bg.png);
+	font-family:Verdana, Geneva, Tahoma, sans-serif ;
+	color:black;
+}
+
+p{
+	text-align:justify;
+}
+
+hr {
+	
+}
+
+h1, h2 {
+	
+	color: #347235;
+}
+
+h2 {
+	font-size: 17px;
+}
+
+#tartalom {
+	margin: 0 auto 0 auto;
+	text-align: left;
+	width: 850px;
+	border: none;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+#nev{
+	font-size: 16px;
+	font-style:italic;
+
+}
+
+
+.kep {
+	border: 1px;
+	margin-left: 5px;
+	float:right;
+	
+}
+
+a:link {
+
+}
+
